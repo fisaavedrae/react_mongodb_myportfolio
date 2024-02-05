@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "titulo": "ANALISIS",
+        "texto": "Poseo un alto nivel de capacidad analítica, lo que me permite identificar y comprender rápidamente los problemas, así como desarrollar soluciones efectivas."
+    },
+    {
+        "id": "02",
+        "titulo": "GESTIÓN DE PROYECTOS",
+        "texto": "Poseo un conjunto de habilidades de gestión de proyectos sólidas, que me permiten liderar y entregar proyectos exitosos: Planificación y organización, Comunicación, Resolución de problemas, Trabajo en equipo y Liderazgo"
+    },
+    {
+        "id": "03",
+        "titulo": "DESARROLLO",
+        "texto": "Poseo un amplio conjunto de habilidades de desarrollo de software, que me permiten diseñar, desarrollar e implementar software de alta calidad: Lenguajes de programación, Buenas prácticas de desarrollo, Herramientas de desarrollo y Pruebas de software."
+    },
+    {
+        "id": "04",
+        "titulo": "METODOLOGÍAS",
+        "texto": "Poseo una amplia experiencia en el uso de metodologías de desarrollo de software, tanto predictivas como ágiles. Tengo una sólida comprensión de los principios y las prácticas de cada enfoque, y soy capaz de adaptarlos a las necesidades específicas de cada proyecto."
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "porcentaje": "60%",
+        "nombre": "Javascript"
+    },
+    {
+        "porcentaje": "60%",
+        "nombre": "CSS"
+    },
+    {
+        "porcentaje": "60%",
+        "nombre": "bootstrap"
+    },
+    {
+        "porcentaje": "60%",
+        "nombre": "tailwind"
+    },
+    {
+        "porcentaje": "70%",
+        "nombre": "GIT"
+    },
+    {
+        "porcentaje": "65%",
+        "nombre": "react js"
+    },
+    {
+        "porcentaje": "50%",
+        "nombre": "node js"
+    },
+    {
+        "porcentaje": "60%",
+        "nombre": "express js"
+    },
+    {
+        "porcentaje": "50%",
+        "nombre": "python"
+    },
+    {
+        "porcentaje": "90%",
+        "nombre": "sql server"
+    },
+    {
+        "porcentaje": "90%",
+        "nombre": "mysql"
+    },
+    {
+        "porcentaje": "60%",
+        "nombre": "postgre sql"
+    },
+    {
+        "porcentaje": "70%",
+        "nombre": "jira"
+    },
+    {
+        "porcentaje": "80%",
+        "nombre": "ms project"
+    },
+    {
+        "porcentaje": "60%",
+        "nombre": "confluence"
+    },
+    {
+        "porcentaje": "50%",
+        "nombre": "SEO"
+    }
+]

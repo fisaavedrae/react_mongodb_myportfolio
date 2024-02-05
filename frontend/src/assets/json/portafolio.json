@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "title": "Mamma Mia",
+        "descripcion": "Aplicación web para el restaurante Mamma Mia.",
+        "imagen": "https://github.com/fisaavedrae/mi-portafolio/blob/main/src/assets/images/captura-mamma-mia.png?raw=true",
+        "liveapp": "https://mamma-mia-delta.vercel.app/",
+        "repo": "https://github.com/fisaavedrae/mamma-mia",
+        "readme": "https://github.com/fisaavedrae/mamma-mia/blob/main/README.md",
+        "tecnologia": [
+            "React",
+            "Tailwind",
+            "HTML",
+            "CSS",
+            "React Router",
+            "Vite",
+            "Json"
+        ]
+    },
+    {
+        "id": "02",
+        "title": "Maestro Pokemon",
+        "descripcion": "Aplicación web para el restaurante Mamma Mia.",
+        "imagen": "https://github.com/fisaavedrae/mi-portafolio/blob/main/src/assets/images/captura-maestro-pokemon.png?raw=true",
+        "liveapp": "https://maestro-pokemon.vercel.app/",
+        "repo": "https://github.com/fisaavedrae/maestro-pokemon",
+        "readme": "https://github.com/fisaavedrae/mamma-mia/blob/main/README.md",
+        "tecnologia": [
+            "React",
+            "Tailwind",
+            "HTML",
+            "CSS",
+            "React Router",
+            "Vite",
+            "Json"
+        ]
+    }
+]

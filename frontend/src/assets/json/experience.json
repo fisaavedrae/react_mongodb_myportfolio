@@ -1,0 +1,91 @@
+[
+    {
+        "id": "01",
+        "fecha": "03/2023 - 09/2023",
+        "empresa": "British American Tobbaco (Kibernum)",
+        "cargo": "Lider de proyecto ecommerce",
+        "ubicacion": "Santiago, Chile",
+        "texto": [
+            "Lidera el proyecto las mejoras funcionales para el sitio ecommerce de Perú.",
+            "Lidera el soporte y mejora continua del sitio ecommerce de Perú."
+        ]
+    },
+    {
+        "id": "02",
+        "fecha": "09/2019 – 10/2022",
+        "empresa": "Walmart Chile",
+        "cargo": "Lider de proyecto ecommerce",
+        "ubicacion": "Santiago, Chile",
+        "texto": [
+            "Lidera como Product Owner de producto ágil, aplicación móvil de seguimiento de pedidos desde CD a tiendas.",
+            "Lidera como Product Owner de producto ágil, aplicación web de pedidos de emergencia para tiendas.",
+            "Implementa aplicación web para pickeo de productos en centro de distribución."
+        ]
+    },
+    {
+        "id": "03",
+        "fecha": "08/2018 – 08/2019",
+        "empresa": "Walmart Chile",
+        "cargo": "Account manager Senior",
+        "ubicacion": "Santiago, Chile",
+        "texto": [
+            "Implementa integración entre sistemas de logística inversa y SII para emisión de guías de despacho.",
+            "Lidera portafolio SAP del área de transportes."
+        ]
+    },
+    {
+        "id": "04",
+        "fecha": "02/2017 – 07/2018",
+        "empresa": "Walmart Chile",
+        "cargo": "Jefe de proyectos eCommerce",
+        "ubicacion": "Santiago, Chile",
+        "texto": [
+            "Implementa módulo de visualización de imágenes de productos en lider.cl.",
+            "Implementa módulo de envío de correos de respuesta a clientes desde lider.cl."
+        ]
+    },
+    {
+        "id": "05",
+        "fecha": "07/2013 – 02/2017",
+        "empresa": "Walmart Chile",
+        "cargo": "Jefe de proyectos SAP",
+        "ubicacion": "Santiago, Chile",
+        "texto": [
+            "Implementa módulo SAP TR para las solicitudes de viajes corporativos.",
+            "Implementa módulos de finiquitos y vacaciones en SAP HR.",
+            "Implementa diferentes proyectos y mejoras en modulo FI"
+        ]
+    },
+    {
+        "id": "06",
+        "fecha": "03/2010 – 06/2013",
+        "empresa": "Walmart Chile",
+        "cargo": "Analista",
+        "ubicacion": "Santiago, Chile",
+        "texto": [
+            "Implementa portal web para información de pagos a proveedores de Servicios y Mercadería de Walmart.",
+            "Implementa ambiente web de SAP (WAS) a nivel de infraestructura, basis y funcional."
+        ]
+    },
+    {
+        "id": "07",
+        "fecha": "03/2009 – 02/2010",
+        "empresa": "Walmart Chile",
+        "cargo": "Analista desarrollador (Externo)",
+        "ubicacion": "Santiago, Chile",
+        "texto": [
+            "Desarrolla aplicación web .net para ingreso de forecast de ventas para comisiones de cajeros.",
+            "Desarrolla aplicación web .net para planificacion de turnos de cajeros."
+        ]
+    },
+    {
+        "id": "08",
+        "fecha": "02/2006 – 12/2008",
+        "empresa": "Helpnet",
+        "cargo": "Jefe de Proyectos",
+        "ubicacion": "Santiago, Chile",
+        "texto": [
+            "Lidera proyectos en clientes externos como Dimacofi, Sodimac, Sitrans."
+        ]
+    }
+]

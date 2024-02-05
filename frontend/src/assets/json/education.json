@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "fecha": "2023 - En Curso",
+        "institucion": "Desafio Latam",
+        "carrera": "Bootcam Desarrollador Fullstack Javascript",
+        "ubicacion": "Santiago, Chile",
+        "texto": ""
+    },
+    {
+        "id": "03",
+        "fecha": "2014 – 2017",
+        "institucion": "Universidad de las Américas",
+        "carrera": "Ingeniero (e) Industrial",
+        "ubicacion": "Santiago, Chile",
+        "texto": ""
+    },
+    {
+        "id": "04",
+        "fecha": "2000 – 2005",
+        "institucion": "Instituto profesional La Araucana",
+        "carrera": "Ingeniería Informática (sin finalizar)",
+        "ubicacion": "Santiago, Chile",
+        "texto": ""
+    }
+]
